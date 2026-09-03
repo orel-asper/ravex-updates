@@ -1,0 +1,23 @@
+{
+  "version": "0.10.9",
+  "notes": "Ravex v0.10.9",
+  "pub_date": "2026-09-03T20:38:47.047Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWmREVUp3a1ZmVnhocXVueFZUTkQxRC91WHBWU0xodUZUWFlaUTY2UituaDczNTNjMmhiaXpndTRlYUEyMFUxUjNHMi92TUcrZ3dGNUMrMXVsVEx0cGlYNm1uOHZxSndZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDY3MDQyCWZpbGU6UmF2ZXguYXBwLnRhci5negpXdVJXOVMyWVlJaFFqcjM2bkVtdEExeVhoMURQMzdicmJNbDVmbFNPbTdabms1cy9oMDNxcXY4WkVMQzZvUFZiSmZNVWU2cDV5OFp5eXNnR2x3SDFEQT09Cg==",
+      "url": "https://orel-asper.github.io/ravex-updates/Ravex_aarch64.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWmREVUp3a1ZmVjEzVzlnRnUvMmlMeS92eCttQ3ZLa2NiaVp1Y3NYZVhPUEp5ZXR5dDk5R08wV3FtbGpmdkwzTXFOYWRHSVcxZVVFcFVrUUExU01tLzlBaEpsUWJtclFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDY2OTk4CWZpbGU6UmF2ZXguYXBwLnRhci5negowTWJzYjdlUWM5WCs0aGRwSEJmblJWM0NrbTVKMDdoRWYwVXdkbVhIdXNBRFFZbTQ4bXlCR3BUZnlaSnMrc1RFUUFEalU2QUprVXV1dFhNRUVHOHNEdz09Cg==",
+      "url": "https://orel-asper.github.io/ravex-updates/Ravex_x64.app.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWmREVUp3a1ZmVnpsV3dCeXJJbG0zbU5DQi9UREtKUENoanFWL1QxS2NTcVRuS2JKY05FRnpGMlJVMlBWMXJwY0dZbGtNQ3VPa0pjRzdOdWJscllqVmhJcHcrN0FyZUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDY3MTY4CWZpbGU6UmF2ZXhfMC4xMC45X2FtZDY0LkFwcEltYWdlCkRvYktVeGpzTEU0VXc3ZlkyZWJHVENnVEtsWXBnVTA4MFA1RTZhNTJudnhBNVdIcmViVHRKMnkxTGpMOFZEM3czdW5xZUpmRUNxTWYxOEFQaUZjakR3PT0K",
+      "url": "https://orel-asper.github.io/ravex-updates/Ravex_0.10.9_amd64.AppImage"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWmREVUp3a1ZmVjdabnlqeFhRUXFVYzlRK1VhL3MwSEFqZkZDZXExNlc1cjgwQUNTd1FLL1lwS3JEREpZbjdSYnRuUWdZZDFlRS9KZlVZbTJaVm5ibHN0dkIrbDNPdFF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDY3NTgxCWZpbGU6UmF2ZXhfMC4xMC45X3g2NC1zZXR1cC5leGUKOWI3bWE1WlBRdFRDajZGKytLbGU2WW44dEd3QUtwaHpXVVYwbmhqS1FjYjRPOEpVdmpsbXJCU2tRL00wWHhkZElvQnhUZ0d1Z3gzNzBicUtXNERsQ2c9PQo=",
+      "url": "https://orel-asper.github.io/ravex-updates/Ravex_0.10.9_x64-setup.exe"
+    }
+  }
+}
